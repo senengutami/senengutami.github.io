@@ -3,7 +3,7 @@ name: "Seneng Utami"
 title: "Seneng Utami"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo4.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/logo4.png'
 baseurl:
 google_analytics: 'UA-112175180-1'
 disqus: ''

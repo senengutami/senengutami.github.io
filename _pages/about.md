@@ -8,5 +8,5 @@ imageshadow: true
 ---
 
 - Writer at Migran Pos
-- Photographr by hobyy
+- Photographr by hobby
 
