@@ -3,7 +3,7 @@ layout: page
 title: Fun fact about me 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/photography1.jpg
 imageshadow: true
 ---
 
